@@ -21,3 +21,6 @@ let vegetables: Array<string> = ['Potato', 'Tomato'];
 
 //array of different types, but it is a bad practice
 let values: (string|number)[] = ['Apple', 2, 'Orange', 3]
+
+//defining the empty array of numbers
+let array: number[] = [];
