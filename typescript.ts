@@ -24,3 +24,7 @@ let values: (string|number)[] = ['Apple', 2, 'Orange', 3]
 
 //defining the empty array of numbers
 let array: number[] = [];
+
+
+//defining string variable
+let word: string = '';
