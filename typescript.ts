@@ -24,3 +24,6 @@ let values: (string|number)[] = ['Apple', 2, 'Orange', 3]
 
 //defining the empty array of numbers
 let array: number[] = [];
+
+//creating merge conflict in master branch
+let conflict;
